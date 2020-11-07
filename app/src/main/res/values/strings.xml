@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">practica14</string>
+    <string name="str_widget">Mi primer widget</string>
+    <string name="str_aceptar">Aceptar</string>
+    <string name="str_cancelar">Cancelar</string>
+    <string name="str_mensaje">Mensaje</string>
+</resources>

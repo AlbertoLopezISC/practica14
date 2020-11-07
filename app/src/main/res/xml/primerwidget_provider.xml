@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appwidget-provider
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:initialLayout="@layout/primer_widget"
+    android:minWidth="110dip"
+    android:minHeight="40dip"
+    android:label="@string/str_widget"
+    android:updatePeriodMillis="1800000"
+    android:configure="com.example.practica14.WidgetConfig"/>
